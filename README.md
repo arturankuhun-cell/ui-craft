@@ -168,7 +168,7 @@ Loaded on demand, so the file you don't need costs you nothing.
 ## Install
 
 ```bash
-git clone https://github.com/<owner>/ui-craft
+git clone https://github.com/<arturankuhun-cell>/ui-craft
 mkdir -p .opencode/skills
 cp -r ui-craft .opencode/skills/
 ```
